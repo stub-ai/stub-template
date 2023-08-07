@@ -17,11 +17,8 @@ Please note that the code should be fully functional. No placeholders.
 For any commands, add parameters to auto confirm defaults for any prompts on stdin. 
 Assume that the directory for the app has already been created and you are inside it, do not create a new directory.
 Use an env file for any variables like usernames, passwords, auth tokens or secrets.
-
 model: gpt-4
-
 temperature: 0
-
 ---
 
 
